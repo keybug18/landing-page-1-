@@ -1,4 +1,4 @@
 # coke
-Here link of this project
+<h1> Beautiful landing page using html and css . 
 
-https://thesiyhbrand.github.io/coke/
+
